@@ -1,18 +1,13 @@
-<div align="center" style="overflow:hidden; height:50px;">
-  <img src="https://media1.tenor.com/m/6BkavcU411gAAAAd/arceus-aruseusu.gif"
-       width="100%" />
-</div>
-
 # Hi, Everyone 👋
 <p>I'm a Full Stack Developer from the Philippines.</p>
 
 <details>
-  <summary><h2>More about me</h2></summary>
+  <summary><b>More about me</b></summary>
 
 [![Kreo141's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kreo141)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Tools I Have Used and Learned</h2>
-<h4>Web:</p>
+<h4>Web:</h4>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  alt="javascript" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/>   
