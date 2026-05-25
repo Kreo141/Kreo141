@@ -4,7 +4,7 @@
 <details>
   <summary><b>More about me</b></summary>
 
-[![Kreo141's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kreo141)](https://github.com/anuraghazra/github-readme-stats)
+[![Kreo141's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kreo141&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Tools I Have Used and Learned</h2>
 <h4>Web:</h4>
