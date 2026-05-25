@@ -1,8 +1,3 @@
-<div align="center" style="overflow:hidden; height:50px;">
-  <img src="https://media1.tenor.com/m/6BkavcU411gAAAAd/arceus-aruseusu.gif"
-       width="100%" />
-</div>
-
 # Hi, Everyone 👋
 <p>I'm a Full Stack Developer from the Philippines.</p>
 
