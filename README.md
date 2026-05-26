@@ -1,4 +1,4 @@
-<img width="1425" height="414" alt="image" src="https://github.com/user-attachments/assets/52f91de5-6926-4814-a21f-e70e4d84780d" /># Hi, Everyone 👋
+# Hi, Everyone 👋
 <p>I'm a Full Stack Developer from the Philippines.</p>
 <p>I like thinking of better solutions for outdated systems and workflows.</p>
 
