@@ -16,6 +16,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/>
 
 <h4>Application Development</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/>
@@ -28,6 +29,7 @@
 
 <h4>IDEs I Work with</h4>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="vscode" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="vscode" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="eclipse" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" alt="intellij" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/>
 </details>
