@@ -5,7 +5,7 @@
 <details>
   <summary><b>More about me</b></summary>
 
-[![Kreo141's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kreo141&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Kreo141's GitHub stats](https://github-stats-extended.vercel.app/api?username=kreo141)](https://github.com/stats-organization/github-stats-extended)
 
 <h2>Tools I Have Used and Learned</h2>
 <h4>Web:</h4>
