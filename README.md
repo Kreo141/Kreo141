@@ -3,7 +3,7 @@
 <p>I like thinking of better solutions for outdated systems and workflows.</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=BBackend%3A+Node.js+%2F+Express+%2F+Flask+%2F+Android;Currently+building%3A+SMS+NODE;Studying+at+the++University+of+Mindanao;Privacy-first+%7C+Encryption" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Backend%3A+Node.js+%2F+Express+%2F+Flask+%2F+Android;Currently+building%3A+SMS+NODE;Studying+at+the++University+of+Mindanao;Privacy-first+%7C+Encryption" alt="Typing SVG" />
 </p>
 
 <details>
