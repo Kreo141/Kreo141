@@ -1,16 +1,21 @@
-# Hi, Everyone 👋
-<p>I'm a Full Stack Developer from the Philippines.</p>
+# Hi! My name is Cjay Salgado👋
+<p>Dev from 🇵🇭</p>
 <p>I like thinking of better solutions for outdated systems and workflows.</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Backend%3A+Node.js+%2F+Express+%2F+Flask+%2F+Android;Currently+building%3A+SMS+NODE;Studying+at+the++University+of+Mindanao;Privacy-first+%7C+Encryption" alt="Typing SVG" />
 </p>
 
+<div align="center">
+
+[![Kreo141's GitHub stats](https://github-stats-extended.vercel.app/api/?username=kreo141&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Kreo141's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=kreo141&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Kreo141's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kreo141&langs_count=5)
+
+</div>
+
 <details>
   <summary><b>More about me</b></summary>
-
-[![Kreo141's GitHub stats](https://github-stats-extended.vercel.app/api?username=kreo141)](https://github.com/stats-organization/github-stats-extended)
-
 <h2>Tools I Have Used and Learned</h2>
 <h4>Web:</h4>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  alt="javascript" width="45" height="45" style="background-color: rgba(125, 224, 255, 0.25); padding: 4px; border-radius: 8px;"/>
