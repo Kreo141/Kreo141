@@ -1,4 +1,4 @@
-# Hi! My name is Cjay Salgado👋
+# Hi, Everyone👋
 <p>Dev from 🇵🇭</p>
 <p>I like thinking of better solutions for outdated systems and workflows.</p>
 
